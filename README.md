@@ -29,8 +29,8 @@ I'm a beginner developer passionate about technology, programming, and solving p
 📂 My Projects
 
 - "My Live Portfolio" (https://sarahomondi85.github.io)
-- "Markdown Practice" (PASTE-YOUR-MARKDOWN-REPOSITORY-LINK)
-- "Team Repository" (PASTE-YOUR-TEAM-REPOSITORY-LINK)
+- "Markdown https://github.com/sarahomondi85/sarahomondi85/blob/main/markdown-practice.md)
+- "Team Repository" https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13)
 
 ⚙️ My Git Identity
 
