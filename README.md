@@ -1,12 +1,48 @@
-Hi there my name is Sarah currently. Learning software development 
-Looking forward to becoming a software engineer 
-Learning both fronted and backend 
-PLearning html, css style, java, 
+Hi there! 👋 I'm [Your Name]
 
+🌱 Aspiring Frontend Developer
 
-Python, react
-Am building different project s
-How to reach me
-Email :sarahomondi31@gmail.com
-Contact :0702927615
+Welcome to my GitHub profile!
+
+I'm a beginner developer passionate about technology, programming, and solving problems through code.
+
+💻 My Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
+
+🚀 Currently Learning
+
+- Frontend Web Development
+- React.js
+- Git and GitHub collaboration
+
+🎯 My Goals
+
+- Build responsive websites.
+- Improve my JavaScript skills.
+- Work on real-world projects.
+- Become a professional software developer.
+
+📂 My Projects
+
+- "My Live Portfolio" (https://sarahomondi85.github.io)
+- "Markdown Practice" (PASTE-YOUR-MARKDOWN-REPOSITORY-LINK)
+- "Team Repository" (PASTE-YOUR-TEAM-REPOSITORY-LINK)
+
+⚙️ My Git Identity
+
+Add the actual output of:
+
+git config --global --list
+
+📫 Connect With Me
+
+- GitHub: "@sarahomondi85" (https://github.com/sarahomondi85)
+
+---
+
+⭐ Thank you for visiting my profile!
 
